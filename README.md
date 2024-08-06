@@ -1,0 +1,2 @@
+# MenorDistanciaArray
+Desafio intelitrader
