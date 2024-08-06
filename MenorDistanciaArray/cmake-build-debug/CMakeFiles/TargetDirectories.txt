@@ -1,0 +1,3 @@
+R:/DevProj/MenorDistanciaArray/MenorDistanciaArray/cmake-build-debug/CMakeFiles/MenorDistanciaArray.dir
+R:/DevProj/MenorDistanciaArray/MenorDistanciaArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+R:/DevProj/MenorDistanciaArray/MenorDistanciaArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
